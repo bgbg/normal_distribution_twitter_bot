@@ -55,3 +55,9 @@ docs/_build/
 
 # PyBuilder
 target/
+
+src/normal_distribution_twitter_bot.ini
+
+.pydevproject
+
+.project
